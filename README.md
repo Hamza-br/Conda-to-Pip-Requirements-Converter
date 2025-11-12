@@ -122,7 +122,7 @@ MIT License - feel free to use and modify as needed.
 
 ## Author
 
-[Your Name]
+BOUROU Hamza
 
 ## Acknowledgments
 
